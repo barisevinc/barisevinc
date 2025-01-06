@@ -13,7 +13,7 @@ I'm Barış Sevinç, a dedicated and proficient .NET Backend Developer with a pa
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
     <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"></a>
-     <img src="https://img.shields.io/badge/kotlin-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+     <img src="https://img.shields.io/badge/kotlin-%238511FA.svg?style=for-the-badge&logo=kotlin&logoColor=white"></a>
     <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
    </a></a>
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
